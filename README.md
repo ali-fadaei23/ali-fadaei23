@@ -1,4 +1,4 @@
-### Hello every body :hand:
+### Hello every body :hand::hand:
 ### :telescope: I am currently working on a project written in Go, and it is so exciting for me!
 
 <a href="https://github.com/ali-fadaei23/alifadaei">
